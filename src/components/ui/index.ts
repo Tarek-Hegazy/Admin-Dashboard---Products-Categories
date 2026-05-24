@@ -23,5 +23,5 @@ export { ErrorState } from "./ErrorState";
 export { Skeleton } from "./Skeleton";
 export { SearchInput } from "./SearchInput";
 export { Badge } from "./Bagde";
-export { Toaster } from "./sonner";
+export { Toaster } from "./Sonner";
 export { AppSelect } from "./AppSelect";
