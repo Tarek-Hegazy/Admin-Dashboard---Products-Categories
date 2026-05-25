@@ -64,13 +64,13 @@ export function GlobalSearch({
   return (
     <div
       className="relative w-full lg:w-80"
-      // onBlur={(event) => {
-      //   const nextFocusedElement = event.relatedTarget as Node | null;
+      onBlur={(event) => {
+        const nextFocusedElement = event.relatedTarget as Node | null;
 
-      //   if (!event.currentTarget.contains(nextFocusedElement)) {
-      //     closeSearch();
-      //   }
-      // }}
+        if (!event.currentTarget.contains(nextFocusedElement)) {
+          closeSearch();
+        }
+      }}
     >
       <SearchInput
         autoFocus={autoFocus}
