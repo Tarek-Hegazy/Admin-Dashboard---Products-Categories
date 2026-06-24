@@ -7,7 +7,7 @@ The dashboard allows managing products and categories with advanced search, filt
 
 ## 🌐 Live Demo
 
-🔗 [Live Demo](https://admin-dashboard-tarek.netlify.app/)
+🔗 [Live Demo](https://admin-dashboard-products-categories.vercel.app/)
 
 🔗 [GitHub Repository](https://github.com/Tarek-Hegazy/Admin-Dashboard---Products-Categories)
 
